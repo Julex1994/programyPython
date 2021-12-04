@@ -1,5 +1,5 @@
-import math
+import kalkulator
 
-sinusZ1 = math.sin(1)
+wartosc = kalkulator.kwadratowy(4)
 
-print(sinusZ1)
+print(wartosc)
