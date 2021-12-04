@@ -1,10 +1,5 @@
-from kalkulator import dodaj, odejmij
+import math
 
-suma = dodaj(4,5)
-suma2 = odejmij(3,2)
+sinusZ1 = math.sin(1)
 
-print(suma)
-print(suma2)
-
-dwie_sumy_razem = dodaj(2,2) + odejmij(3,4)
-print(dwie_sumy_razem)
+print(sinusZ1)

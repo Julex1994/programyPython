@@ -1,3 +1,5 @@
+import math
+
 def dodaj(x, y):
     return x + y
 
@@ -9,3 +11,9 @@ def pomnoz(x, y):
 
 def podziel(x, y):
     return x / y
+
+def sinus(x):
+    return math.sin(x)
+
+def kwadratowy(x):
+    return math.sqrt(x)
